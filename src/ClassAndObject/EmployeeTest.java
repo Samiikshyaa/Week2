@@ -7,7 +7,7 @@ public class EmployeeTest {
         Employee e3 = new Employee("John",1999,"26B- WallsStreat");
 
 
-        System.out.println("Name\t Year of joining \t Employee");
+        System.out.println("Name\t   Year of joining \t Employee");
         e1.print();
         e2.print();
         e3.print();
